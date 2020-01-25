@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901863171746",
+    "firebase_url": "https://lvas-16c52.firebaseio.com",
+    "project_id": "lvas-16c52",
+    "storage_bucket": "lvas-16c52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901863171746:android:c640d89a1ef36e7fa059fb",
+        "android_client_info": {
+          "package_name": "dotcom.lvas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901863171746-r0gak7v2d27uh50jvh6clcehji1jvpd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dotcom.lvas",
+            "certificate_hash": "6d120ce170d4b9f955f7d48bc4928ad15dc6a9c9"
+          }
+        },
+        {
+          "client_id": "901863171746-4aupp2st288o02bofpjuotc47rfo35tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJx0dsm1Isz8KwvWXCPzTlss7SntjcaRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901863171746-4aupp2st288o02bofpjuotc47rfo35tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
